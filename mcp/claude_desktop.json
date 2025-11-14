@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "math-tools": {
+      "command": "H:\\Hands_on_LLM\\venv\\Scripts\\python.exe",
+      "args": ["H:\\Hands_on_LLM\\mcp\\mcp_server.py"]
+    }
+  }
+}
